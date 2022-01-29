@@ -12,7 +12,7 @@ Pronouns: he/him
 
 # Employment
 
-## [Postdoctoral Research Scientist, Columbia University in the Causal AI Lab](https://github.com/adam2392/adma2392/blob/master/causalailab.md)
+## [Postdoctoral Research Scientist, Columbia University in the Causal AI Lab](https://github.com/adam2392/adam2392/blob/master/causalailab.md)
 *2022-Present*
 
 __Executive Summary__
@@ -21,7 +21,7 @@ At the Causal AI Lab, I am a Computing Innovation Research Fellow funded by the 
 
 My causal inference research interests are in structure learning and causal estimation in equivalence classes and their relations to neuroscience.
 
-## [PhD Candidate, Johns Hopkins University in the Neuromedical Control Systems Lab](https://github.com/adam2392/adma2392/blob/master/phd.md)
+## [PhD Candidate, Johns Hopkins University in the Neuromedical Control Systems Lab](https://github.com/adam2392/adam2392/blob/master/phd.md)
 *2015-2022*
 
 __Executive Summary__

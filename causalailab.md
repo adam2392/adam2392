@@ -1,7 +1,7 @@
 # Postdoctoral Research Scientist, Columbia University
 __Executive Summary__
 
-At the Causal AI Lab, I am a Computing Innovation Research Fellow funded by the NSF. I am working at the intersection of neuroscience and causal inference.
+At the Causal AI Lab, I am a Computing Innovation Research Fellow funded by the NSF with [Dr. Elias Bareinboim](https://causalai.net). I am working at the intersection of neuroscience and causal inference.
 
 My causal inference research interests are in structure learning and causal estimation in equivalence classes and their relations to neuroscience.
 
