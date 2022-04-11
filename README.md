@@ -32,6 +32,7 @@ At Johns Hopkins University, I was a NSF Graduate Research Fellow, Whitaker Fell
 
 - Python Expert
 - MATLAB Expert
+- Cython and C++ Proficient
 - R Beginner
 
 # Open-Source Summary
