@@ -38,3 +38,5 @@ At Johns Hopkins University, I was a NSF Graduate Research Fellow, Whitaker Fell
 # Open-Source Summary
 
 I am a core-contributor to MNE-Python, MNE-BIDS, MNE-Connectivity and contributed to other packages, such as scikit-learn, pyDMD, TVB.
+
+![Metrics](https://github.com/adam2392/adam2392/blob/main/github-metrics.svg)
