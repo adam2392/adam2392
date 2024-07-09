@@ -19,7 +19,8 @@ __Executive Summary__
 <!-- remember to update corresponding page -->
 At the Causal AI Lab, I am a Computing Innovation Research Fellow funded by the NSF. I am working at the intersection of neuroscience and causal inference.
 
-My causal inference research interests are in structure learning and causal estimation in equivalence classes and their relations to neuroscience.
+My causal inference research interests are in structure learning and causal estimation in equivalence classes and their relations to neuroscience. More broadly,
+I develop theoretically grounded neural networks capable of understanding the causal relationships between latent factors within images, or text.
 
 ## [PhD Candidate, Johns Hopkins University in the Neuromedical Control Systems Lab](https://github.com/adam2392/adam2392/blob/master/phd.md)
 *2015-2022*
@@ -37,6 +38,6 @@ At Johns Hopkins University, I was a NSF Graduate Research Fellow, Whitaker Fell
 
 # Open-Source Summary
 
-I am a core-contributor to MNE-Python, MNE-BIDS, MNE-Connectivity and contributed to other packages, such as scikit-learn, pyDMD, TVB.
+I am a core-contributor to scikit-learn, Py-Why, MNE-Python, MNE-BIDS, MNE-Connectivity and contributed to other packages, such as pyDMD, TVB.
 
 ![Metrics](https://github.com/adam2392/adam2392/blob/main/github-metrics.svg)
