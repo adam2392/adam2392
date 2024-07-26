@@ -1,4 +1,4 @@
-# Adam Li, PhD
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="">!
 <p>
 <a href="https://www.buymeacoffee.com/adam2392"><img height="20" src="./icons/coffee.svg" alt=""/></a>
 <a href="https://www.linkedin.com/in/adam2392/"><img height="20" src="./icons/linkedin.svg" alt=""/></a>
@@ -9,9 +9,7 @@
 <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue" height="20" alt="Pronouns: He/Him"/> 
 </p>
 
-Hi there! I'm Adam, a postdoctoral research scientist at Columbia University in the Causal AI Lab. I am a Computing Innovation Research Fellow funded by the NSF. I am working at the intersection of neuroscience and causal inference.
-
-- [Personal Website](http://adam2392.github.io)
+I'm [Adam](https://adam2392.github.io), a postdoctoral research scientist at Columbia University in the Causal AI Lab. I am a Computing Innovation Research Fellow funded by the NSF. I obtained my PhD from Johns Hopkins University. I am working at the intersection of neuroscience and causal inference.
 
 # Employment
 
