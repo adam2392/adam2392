@@ -7,6 +7,8 @@
 <a href="https://orcid.org/0000-0001-8421-365X"><img height="20" src="./icons/orcid.png" alt=""/></a>
 <img src="https://img.shields.io/badge/build-running-green" height="20" alt="build: running"/>
 <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue" height="20" alt="Pronouns: He/Him"/> 
+<a href="https://mentorcruise.com/mentor/adamli/"><img height="20" src="https://cdn.mentorcruise.com/img/cruise_turquoise_small.png"/>
+
 </p>
 
 I'm [Adam](https://adam2392.github.io), a Senior Applied Scientist at Amazon in the Measurement Ad Science org. I work at the intersection of machine learning, causal inference and statistical modeling applied to ads.
